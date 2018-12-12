@@ -1,0 +1,101 @@
+// CMC File
+//  Game Title:   Xwing Alliance
+//  written  by:  Prepper Jo
+////////////////////////
+// Menus and  Interface
+
+Map m
+Mission-Quit q
+Mission-Restart h
+Menu-Item-1 1
+Menu-Item-2 2
+Menu-Item-3 3
+Menu-Item-4 4
+Menu-Item-5 5
+Menu-Item-6 6
+Menu-Item-7 7
+Menu-Item-8 8
+Menu-Item-9 9
+Previous-Menu  0
+Sensors-Forward KBINS
+Sensors-Rear  KBPGUP
+HUD-Center KBHOME
+MFD-Left  KBDEL
+MFD-Right KBPGDN
+MFD-Prev-Mode KBLEFT
+MFD-Next-Mode KBRIGHT
+Center-CMD  KBEND
+Item-Previous KBUP
+Item-Next KBDOWN
+Simple-Hud .
+
+/////////////////
+// Targeting
+
+Target-My-Attacker  e
+Target-Nearest-Enemy r
+Target-Next t
+Target-Previous y
+Target-Newest-Ship u
+Target-Nearest-Warhead  i
+Target-Nearest-Objective o
+Target-Nearest-Buoy n
+Target-Targets-Attacker a
+Target-Next-Subsystem ,
+Target-Next-Friendly F1
+Target-Previous-Friendly HOLD LSHF F1
+Target-Next-Neutral F2
+Target-Previous-Neutral HOLD LSHF  F2
+Target-Next-Enemy F3
+Target-Previous-Enemy HOLD LSHF F3
+
+////////////////////////
+// Movement
+
+Match-Targets-Velocity  ENT
+S-Foils V
+Enter-Hyperspace SPC
+Dock  D
+Pick-Up P
+Drop  R
+Full-Thrust BKSPC
+Zero-Thrust \
+
+////////////////////////
+// Energy and Shields
+
+Shield-Config s
+Power-To-Weapons  ;
+Power-To-Shields  '
+Recharge-Beam F8
+Recharge-Weapon F9
+Energy-To-Weapon HOLD LSHF  F9
+Recharge-Shield F10
+Energy-To-Shield HOLD LSHF F10
+Energy-Preset-1 F11
+Energy-Preset-2 F12
+
+////////////////////////
+// Combat
+
+Cycle-Weapons w
+Weapon-Converge z
+Weapon-Config x
+Counter-Measure c
+Toggle-Beams b
+
+
+////////////////////////
+// Communication
+Stop-and-Wait W
+Evasive-Action  E
+Status-Report HOLD LCTL R
+Ignore-Target I
+Attack-Target A
+Send-Help S
+Head-Home H
+
+////////////////////////
+// Camera
+
+Lock-on-Target  l
