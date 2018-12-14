@@ -1,5 +1,8 @@
-021122=Energy-To-Shield
-010301=2
+011522=Target-Targets-Attacker
+011622=Target-Previous-Friendly
+011604=1
+011605=1
+011620=Target-Next-Friendly
 000001=1
 000002=11
 000003=50
@@ -20,6 +23,7 @@
 010210=1
 010211=2
 010214=151020555
+010301=2
 010701=2
 010704=1
 010710=1
@@ -52,7 +56,6 @@
 010C04=1
 010C05=1
 010C20=Target-Nearest-Enemy
-010C22=Target-Targets-Attacker
 010C24=1
 010C25=5
 010D01=1
@@ -114,7 +117,6 @@
 011504=1
 011505=1
 011520=Target-Next-Neutral
-011522=Target-Previous-Neutral
 011524=1
 011525=14
 011601=1
@@ -202,6 +204,7 @@
 021104=1
 021105=1
 021120=Recharge-Shield
+021122=Energy-To-Shield
 021124=1
 021125=26
 021201=1
